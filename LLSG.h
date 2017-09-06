@@ -8,7 +8,7 @@
 * llsg is a plugin for SciDB, an Open Source Array DBMS maintained
 * by Paradigm4. See http://www.paradigm4.com/
 *
-* faster_redimension is free software: you can redistribute it and/or modify
+* LLSG is free software: you can redistribute it and/or modify
 * it under the terms of the AFFERO GNU General Public License as published by
 * the Free Software Foundation.
 *
